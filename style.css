@@ -1,0 +1,13 @@
+.stranger {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.stranger img {
+    width: 20rem;
+}
+
+.stranger p {
+    width: 30rem;
+}
